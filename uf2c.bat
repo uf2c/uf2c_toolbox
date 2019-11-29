@@ -1,0 +1,1 @@
+MATLAB -nosplash -nodesktop -minimize -sd "%CD%" -r uf2c

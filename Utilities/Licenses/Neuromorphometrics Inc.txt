@@ -1,0 +1,4 @@
+Maximum probability tissue labels derived from:
+'MICCAI 2012 Grand Challenge and Workshop on Multi-Atlas Labeling'
+These data were released under the Creative Commons Attribution-NonCommercial (CC BY-NC) with no end date.
+Labeled data provided by Neuromorphometrics, Inc. (http://Neuromorphometrics.com/) under academic subscription".
